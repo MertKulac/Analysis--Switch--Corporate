@@ -1,5 +1,5 @@
 # Impact-Analysis-Switch-Corporate
-The purpose of this project is to make impact analysis of our corporate customers. The code is working multi-vendor.
+The purpose of this project is to make impact analysis of our corporate customers. The code is working multi-vendor. The switch and core layers can learn information between three devices.
 
 #  Vlan,Routing:
 	In a LAN environment, VLANs divide broadcast domains. When a host in one VLAN must communicate with a host in another VLAN, the traffic must be routed between them. This type of routing is called inter-VLAN routing.
